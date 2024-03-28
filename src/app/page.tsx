@@ -5,6 +5,7 @@ import WhyChooseUs from "@/components/WhyChooseUs";
 import TestimonialCard from "@/components/TestimonialCard";
 import UpcomingWebinars from "@/components/UpcomingWebinars";
 import Instructors from "@/components/Instructors";
+import Footer from "@/components/Footer";
 export default function Home() {
   return (
    
@@ -18,6 +19,7 @@ export default function Home() {
     <TestimonialCard/>
     <UpcomingWebinars/>
     <Instructors/>
+    <Footer/>
 
  </main>
    
