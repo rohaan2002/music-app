@@ -36,8 +36,8 @@ const Footer = () => {
       </div>
       
     </div>
-    <div className="text-center text-base text-gray-400 mb-2">
-        © 2024 Music School. Rohan Pachauri - a NextJS vanity project
+    <div className="text-center text-base text-gray-400 mb-6">
+        © 2024 Rohan Pachauri. Music School - a NextJS vanity project
     </div>
     </div>
   )

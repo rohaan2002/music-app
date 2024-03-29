@@ -46,7 +46,7 @@ const people= [
   return (
     <div className="relative h-[40rem] flex  items-center justify-center overflow-hidden">
         <WavyBackground className="w-full max-w-7xl mx-auto flex flex-col items-center justify-center h-full">
-          <div className="mt-2 text-7xl leading-8 font-extrabold  tracking-[-0.025em] text-white sm:text-5xl">
+          <div className="mt-2  leading-8 font-extrabold  tracking-[-0.025em] text-white text-4xl sm:text-7xl text-center">
             Meet Our Instructors
           </div>
           <div className="flex flex-row mt-6 justify-center text-center text-xl">
